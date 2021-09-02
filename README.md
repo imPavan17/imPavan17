@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavan
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with interesting open source projects
 - 📫 How to reach me iampavan05@gmail.com
 
 <!---
